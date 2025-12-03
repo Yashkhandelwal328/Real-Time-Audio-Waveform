@@ -1,4 +1,4 @@
-name: neonviz
+name: Readl-Time-Audo-Visalizer
 channels:
   - conda-forge
   - defaults
